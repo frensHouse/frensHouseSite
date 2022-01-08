@@ -1,0 +1,11 @@
+{ "title": "WELCOME TO\nFRENS.HOUSE",
+  "text": "Friends helping friends navigate the world of blockchain & web3.0",
+  "button": [
+    {
+      "title": "JOIN NOW",
+      "color": "#83F9A2",
+      "border": "none;"
+      
+    }
+  ]
+}

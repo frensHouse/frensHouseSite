@@ -1,0 +1,20 @@
+<MiddleBlock
+        title={MiddleBlockContent.title}
+        content={MiddleBlockContent.text}
+        button={MiddleBlockContent.button}
+      />
+      <ContentBlock
+        type="left"
+        title={AboutContent.title}
+        content={AboutContent.text}
+        section={AboutContent.section}
+        icon="lilbricks.svg"
+        id="about"
+      />
+      <ContentBlock
+        type="right"
+        title={MissionContent.title}
+        content={MissionContent.text}
+        icon="lilbricks.svg"
+        id="mission"
+      />

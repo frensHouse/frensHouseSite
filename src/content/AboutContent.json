@@ -1,0 +1,29 @@
+{
+  "title": "What is frensHouse 💛🏠?",
+  "text": "frensHouse is a multidisciplinary creative community shaped around creating fun engaging blockchain and Web3 experiences, in the metaverse and IRL.  Our primary goal at frensHouse is to educate and onboard the community to blockchain technology and web3.",
+  "section": [
+    {
+      "title": "frensDAO",
+      "content": "frensHouse will eventually operate as a DAO and issue voting tokens as erc721s to its core community members and contributors. These NFTs will be used for submitting and voting on proposals within the frensHouse community.",
+      "icon": "dao.svg"
+    },
+    {
+      "title": "Mentorship",
+      "content": "FrensHouse will use NFTs as the conduit into the space. The team will introduce to the community new creative ways to learn and also gain the opportunity to mentor new members into the space. ",
+      "icon": "mentorship.svg"
+    },
+    {
+      
+      "title": "Experience",
+      "content": "Many of the core members leading frensHouse have multiple years of experience navigating the uncharted waters of blockchain and web3. With these years of experience, the genesis team aims at empowering all future community members and setting up the infrastructure to onboard new frens into the web3 and blockchain space. ",
+      "icon": "experience.svg"
+    },
+    {
+      "title": "Community",
+      "content": "frensHouse aims to provide a safe space for individuals to learn and grow at their own pace within this new paradigm shift. The community will move and grow as one agile hive mind while keeping its finger on the pulse within the legacy and web3 culture.",
+      "icon": "community.svg"
+    }
+  ]
+}
+
+
