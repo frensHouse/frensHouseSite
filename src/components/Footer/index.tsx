@@ -74,6 +74,10 @@ const Footer = ({ t }: any) => {
                 href="https://instagram.com/frens.house"
                 src="instagram.svg"
               />
+              <SocialLink
+                href="https://youtube.com/frenshouse"
+                src="youtube.svg"
+              />
               
            
             </FooterContainer>
