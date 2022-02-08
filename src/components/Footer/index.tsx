@@ -75,7 +75,7 @@ const Footer = ({ t }: any) => {
                 src="instagram.svg"
               />
               <SocialLink
-                href="https://youtube.com/frenshouse"
+                href="https://www.youtube.com/channel/UClrd3aRPOpG7qq8bzq-zFpw"
                 src="youtube.svg"
               />
               
