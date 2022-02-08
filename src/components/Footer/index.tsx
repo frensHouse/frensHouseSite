@@ -73,13 +73,10 @@ const Footer = ({ t }: any) => {
                <SocialLink
                 href="https://instagram.com/frens.house"
                 src="instagram.svg"
-<<<<<<< HEAD
               />
               <SocialLink
                 href="https://youtube.com/frenshouse"
                 src="youtube.svg"
-=======
->>>>>>> 65a1833299d12581ec6bd83e766a2389f03992b5
               />
               
            
