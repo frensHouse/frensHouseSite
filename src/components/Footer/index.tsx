@@ -71,12 +71,20 @@ const Footer = ({ t }: any) => {
                 src="discord.svg"
               />
                <SocialLink
+<<<<<<< HEAD
+                href=""
+                src="mirror.svg"
+=======
                 href="https://instagram.com/frens.house"
                 src="instagram.svg"
+<<<<<<< HEAD
+>>>>>>> parent of f09f7a4b (update index.tsx)
               />
               <SocialLink
                 href="https://www.youtube.com/channel/UClrd3aRPOpG7qq8bzq-zFpw"
                 src="youtube.svg"
+=======
+>>>>>>> 65a1833299d12581ec6bd83e766a2389f03992b5
               />
               
            
