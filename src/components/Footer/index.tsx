@@ -78,8 +78,6 @@ const Footer = ({ t }: any) => {
                 href="https://youtube.com/frenshouse"
                 src="youtube.svg"
               />
-              
-           
             </FooterContainer>
           </Row>
         </Container>
