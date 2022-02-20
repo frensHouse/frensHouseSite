@@ -44,8 +44,8 @@ const Header = ({ t }: any) => {
         <CustomNavLinkSmall onClick={()=> window.open("https://frenshouse.typeform.com/to/LBrU23Gy", "_blank")}>
           <Span>{t("APPLY")}</Span>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall onClick={() => scrollTo("mission")}>
-          <Span>{t("")}</Span>
+        <CustomNavLinkSmall onClick={()=> window.open("https://www.youtube.com/channel/UClrd3aRPOpG7qq8bzq-zFpw", "_blank")}>
+          <Span>{t("MEDIA")}</Span>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall onClick={() => scrollTo("contact")}>
           <Span>{t("")}</Span>
