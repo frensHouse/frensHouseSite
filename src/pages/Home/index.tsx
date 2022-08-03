@@ -28,7 +28,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="house_happy.svg"
+        icon="graphs.svg"
         id="intro"
       />
    <ContentBlock
